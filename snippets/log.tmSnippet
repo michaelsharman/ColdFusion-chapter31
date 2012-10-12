@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string><![CDATA[writeLog(text="$1", file=${2:application.applicationName}, type="error");]]></string>
+	<key>name</key>
+	<string>query</string>
+	<key>scope</key>
+	<string>source.cfscript</string>
+	<key>tabTrigger</key>
+	<string>q</string>
+	<key>uuid</key>
+	<string>CE7439B0-140D-11E2-892E-0800200C9A66</string>
+</dict>
+</plist>
